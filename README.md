@@ -27,7 +27,7 @@ This project demonstrates the creation and usage of a custom React hook `useFetc
 This project is configured for deployment on Netlify.
 
 - **Deployed Link**: [Insert Netlify Link Here]
-- **GitHub Repository**: [Insert GitHub Link Here]
+- **GitHub Repository**: [https://github.com/AusafAhma/React-Custom-Hooks.git](https://github.com/AusafAhma/React-Custom-Hooks.git)
 
 ## Decisions
 See [DECISIONS.md](./DECISIONS.md) for an overview of the design choices made during development.
