@@ -26,7 +26,7 @@ This project demonstrates the creation and usage of a custom React hook `useFetc
 ## Deployment
 This project is configured for deployment on Netlify.
 
-- **Deployed Link**: stupendous-kringle-923471.netlify.app
+- **Deployed Link**: [https://stupendous-kringle-923471.netlify.app/]
 - **GitHub Repository**: [https://github.com/AusafAhma/React-Custom-Hooks.git](https://github.com/AusafAhma/React-Custom-Hooks.git)
 
 ## Decisions
